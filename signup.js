@@ -38,15 +38,7 @@ let userdata= JSON.parse(localStorage.getItem("user")) || []
         }
         validateemail(email){
             return true
-        //    let ans = userdata.filter((el)=>{
-        //          return el.email===email
-        //    })
-        //    if(ans.length>0){
-        //     return false
-        //    }
-        //    else{
-        //    
-        //    }
+
         }
         validatepassword(password){
             if(password.length>0){
