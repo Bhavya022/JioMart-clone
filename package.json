@@ -1,0 +1,25 @@
+{
+  "name": "-far-bird-7999",
+  "version": "1.0.0",
+  "description": "E-commerce website \r Welcome to - \r #  jiomart.com",
+  "main": "cart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavya022/-far-bird-7999.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavya022/-far-bird-7999/issues"
+  },
+  "homepage": "https://github.com/Bhavya022/-far-bird-7999#readme",
+  "dependencies": {
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
