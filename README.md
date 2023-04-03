@@ -25,9 +25,7 @@ We are here to help you make your home a better place to live in.
 
 Deployed link : 
 
-API link 1:  productApi='https://main-server-qat8.onrender.com/product'
-API link 2:  usersApi='https://main-server-qat8.onrender.com/users'
-API link 3:
+API link 1:  productApi='https://nice-plum-wasp-boot.cyclic.app/api/Allproduct'
 Bhavya Khatri
 
 
